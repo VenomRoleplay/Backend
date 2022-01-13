@@ -1,1 +1,1 @@
-Aufgrund Dessen das Team-Intern derzeit so viel scheiße passiert auf der ich nicht zufrieden bin, leake ich hiermit das Venom-Roleplay Script inklusive SQL (Accounts sind von GVRP damals) & Client-Side.
+Aufgrund Dessen das Team-Intern derzeit so viel scheiße passiert auf der ich nicht zufrieden bin (und auch andere Dinge), leake ich hiermit das Venom-Roleplay Script inklusive SQL (Accounts sind von GVRP damals) & Client-Side.
