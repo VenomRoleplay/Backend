@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GVRP": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\Paco\\Documents\\GitHub\\Venom-Roleplay",
+      "sqlDebugging": false,
+      "nativeDebugging": false
+    }
+  }
+}
